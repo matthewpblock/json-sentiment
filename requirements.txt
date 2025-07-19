@@ -2,3 +2,8 @@ jupyterlab
 requests
 spacy
 spacytextblob
+transformers
+torch
+pandas
+matplotlib
+seaborn
